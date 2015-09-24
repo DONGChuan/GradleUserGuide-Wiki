@@ -8,8 +8,8 @@
 
 * [原文地址](https://docs.gradle.org/current/userguide/userguide.html)
 
-* 我们会开放权限给每一个加入的伙伴 (翻译或者校对)，请提前邮箱联系 dongchuan55@gmail.com
-----
+* ### 我们会开放权限给每一个加入的伙伴 (翻译或者校对)，请提前邮箱联系 dongchuan55@gmail.com
+
 ### 如何参与
 
 任何问题都欢迎直接联系我 dongchuan55@gmail.com 或者我们的QQ群 324020116
