@@ -1,4 +1,3 @@
-- [关于本书](README.md)
 - [介绍](introduction.md)
    - [关于这本指南](about_this_user_guide.md)
 - [概述](overview/README.md)
